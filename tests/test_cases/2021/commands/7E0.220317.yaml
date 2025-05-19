@@ -1,0 +1,13 @@
+command_id: 7E0.220317
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203170000'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 0
+- response: 7E8056203172FFC
+  expected_values:
+    FORD_VCT_EXH_DUTY: 37.48779
+- response: 7E805620317375C
+  expected_values:
+    FORD_VCT_EXH_DUTY: 43.24951
