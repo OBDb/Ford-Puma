@@ -1,0 +1,19 @@
+command_id: 7E0.2203E8
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056203E82BCD
+  expected_values:
+    FORD_OAR: 0.68439
+- response: 7E8056203E82E92
+  expected_values:
+    FORD_OAR: 0.72766
+- response: 7E8056203E8316F
+  expected_values:
+    FORD_OAR: 0.7724
+- response: 7E8056203E832C3
+  expected_values:
+    FORD_OAR: 0.79315
+- response: 7E8056203E83360
+  expected_values:
+    FORD_OAR: 0.80273

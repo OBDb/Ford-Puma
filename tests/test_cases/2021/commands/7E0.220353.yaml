@@ -1,0 +1,13 @@
+command_id: 7E0.220353
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E805620353018D
+  expected_values:
+    FORD_BARO: 14.39339
+- response: 7E805620353018E
+  expected_values:
+    FORD_BARO: 14.42964
+- response: 7E805620353018F
+  expected_values:
+    FORD_BARO: 14.4659
