@@ -1,7 +1,8 @@
 command_id: 7E0.011F
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
 - response: 7E804411F005D
   expected_values:
     RUNTM: 93
+- response: 7E804411F02F1
+  expected_values:
+    RUNTM: 753
