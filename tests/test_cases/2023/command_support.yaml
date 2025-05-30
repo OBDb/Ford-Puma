@@ -47,4 +47,4 @@ supported_commands_by_ecu:
   - 01A6:ODO
 unsupported_commands_by_ecu:
   726:
-  - 726.22407E
+  - 726.22407E:FORD_EXTERIOR_LIGHT_STATE
