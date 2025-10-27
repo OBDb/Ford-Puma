@@ -46,6 +46,7 @@ supported_commands_by_ecu:
   - 019D:FUEL_RATE_ALT,VFUEL_RATE
   - 019E:EXH_RATE
   - 01A6:ODO
+  - 7E0.7E8.22035A:FORD_BARO_V
 unsupported_commands_by_ecu:
   "726":
   - 726.22407E:FORD_EXTERIOR_LIGHT_STATE
