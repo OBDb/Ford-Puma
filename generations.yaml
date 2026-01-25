@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Puma_(coup%C3%A9)"
+  - "https://en.wikipedia.org/wiki/Ford_Puma_(crossover)"
+
 generations:
   - name: "First Generation (Sport Compact)"
     start_year: 1997
@@ -6,5 +10,10 @@ generations:
 
   - name: "Second Generation (Crossover)"
     start_year: 2019
+    end_year: 2024
+    description: "The current Puma revived the nameplate for a completely different vehicle type—a subcompact crossover SUV based on the seventh-generation Fiesta platform. The exterior design incorporates some styling cues recalling the original Puma, particularly in the canoe-shaped headlights, but with a higher-riding crossover profile. Powered primarily by Ford's 1.0L EcoBoost three-cylinder engine with 48V mild-hybrid technology in various power outputs (125-155 HP), it prioritizes efficiency while maintaining engaging driving dynamics. The performance-oriented ST variant features a 1.5L EcoBoost three-cylinder producing 200 HP. A distinctive feature is the 'MegaBox'—an 80-liter waterproof, drainable storage compartment beneath the cargo floor, adding significant versatility. The interior shares elements with the Fiesta but with a more crossover-appropriate seating position and available 12.3-inch digital instrument cluster and 8-inch SYNC 3 touchscreen."
+
+  - name: "Second Generation (Crossover, Facelift)"
+    start_year: 2024
     end_year: null
-    description: "The current Puma revived the nameplate for a completely different vehicle type—a subcompact crossover SUV based on the seventh-generation Fiesta platform. The exterior design incorporates some styling cues recalling the original Puma, particularly in the canoe-shaped headlights, but with a higher-riding crossover profile. Powered primarily by Ford's 1.0L EcoBoost three-cylinder engine with 48V mild-hybrid technology in various power outputs (125-155 HP), it prioritizes efficiency while maintaining engaging driving dynamics. The performance-oriented ST variant features a 1.5L EcoBoost three-cylinder producing 200 HP. A distinctive feature is the 'MegaBox'—an 80-liter waterproof, drainable storage compartment beneath the cargo floor, adding significant versatility. The interior shares elements with the Fiesta but with a more crossover-appropriate seating position and available 12.3-inch digital instrument cluster and 8-inch SYNC 3 touchscreen. Trim levels range from the entry-level Titanium to the sporty ST-Line and more rugged Active variants. This generation represents Ford's strategy to leverage recognizable nameplates while transitioning its European lineup toward crossovers and SUVs. While sharing nothing mechanically with its predecessor, the current Puma has been commercially successful by combining the engaging driving characteristics Ford is known for with the practical aspects and raised driving position of a crossover."
+    description: "The Puma received a significant facelift in February 2024, with updated exterior design featuring a revamped front grille, new headlights, and slimmer bumper designs. The interior was also updated, with revised materials, a larger infotainment screen, and enhanced connectivity options. Engine choices remained efficient while innovative driver-assistance systems were added to remain competitive in its class."
