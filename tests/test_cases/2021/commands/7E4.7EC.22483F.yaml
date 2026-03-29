@@ -1,0 +1,23 @@
+command_id: 7E4.7EC.22483F
+test_cases:
+- expected_values:
+    FORD_HVBAT_MOD_V: 0.007
+  response: 7EC0562483F0007
+- expected_values:
+    FORD_HVBAT_MOD_V: 0.008
+  response: 7EC0562483F0008
+- expected_values:
+    FORD_HVBAT_MOD_V: 0.009
+  response: 7EC0562483F0009
+- expected_values:
+    FORD_HVBAT_MOD_V: 0.01
+  response: 7EC0562483F000A
+- expected_values:
+    FORD_HVBAT_MOD_V: 0.011
+  response: 7EC0562483F000B
+- expected_values:
+    FORD_HVBAT_MOD_V: 0.013
+  response: 7EC0562483F000D
+- expected_values:
+    FORD_HVBAT_MOD_V: 0.014
+  response: 7EC0562483F000E

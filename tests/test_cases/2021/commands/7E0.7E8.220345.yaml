@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220345
+test_cases:
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 84
+  response: '7E80762034500000054'
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 85
+  response: '7E80762034500000055'
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 86
+  response: '7E80762034500000056'
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 87
+  response: '7E80762034500000057'
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 88
+  response: '7E80762034500000058'
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 94
+  response: 7E8076203450000005E
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 95
+  response: 7E8076203450000005F

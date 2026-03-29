@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     FORD_OAR: 0.80273
   response: 7E8056203E83360
+- expected_values:
+    FORD_OAR: 1
+  response: 7E8056203E8F838
