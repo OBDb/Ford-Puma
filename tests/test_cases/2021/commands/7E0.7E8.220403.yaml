@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    FORD_KS1_RAW: 10
+  response: 7E805620403000A
+- expected_values:
+    FORD_KS1_RAW: 11
+  response: 7E805620403000B
+- expected_values:
+    FORD_KS1_RAW: 12
+  response: 7E805620403000C
+- expected_values:
+    FORD_KS1_RAW: 14
+  response: 7E805620403000E
+- expected_values:
+    FORD_KS1_RAW: 15
+  response: 7E805620403000F
+- expected_values:
+    FORD_KS1_RAW: 16
+  response: '7E8056204030010'
+- expected_values:
+    FORD_KS1_RAW: 17
+  response: '7E8056204030011'

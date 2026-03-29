@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    FORD_WGDC: 19.66553
+  response: 7E805620462192C
+- expected_values:
+    FORD_WGDC: 41.42456
+  response: '7E8056204623506'
+- expected_values:
+    FORD_WGDC: 74.20959
+  response: 7E8056204625EFD
+- expected_values:
+    FORD_WGDC: 78.41797
+  response: '7E8056204626460'

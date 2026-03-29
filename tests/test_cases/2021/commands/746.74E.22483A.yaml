@@ -1,0 +1,8 @@
+command_id: 746.74E.22483A
+test_cases:
+- expected_values:
+    FORD_DCDC_HV_A: 0.2
+  response: 74E0462483A02
+- expected_values:
+    FORD_DCDC_HV_A: 8.7
+  response: 74E0462483A57
