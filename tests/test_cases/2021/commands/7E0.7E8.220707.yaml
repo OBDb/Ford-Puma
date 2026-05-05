@@ -16,5 +16,8 @@ test_cases:
     FORD_GRILL_SHUT_DC: 57.64706
   response: '7E80462070793'
 - expected_values:
+    FORD_GRILL_SHUT_DC: 75.29412
+  response: 7E804620707C0
+- expected_values:
     FORD_GRILL_SHUT_DC: 100
   response: 7E804620707FF
