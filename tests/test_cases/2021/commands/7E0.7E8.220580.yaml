@@ -4,14 +4,5 @@ test_cases:
     FORD_GRILL_SHUTTER_POSITION: 0
   response: '7E80462058000'
 - expected_values:
-    FORD_GRILL_SHUTTER_POSITION: 33.33333
-  response: '7E80462058055'
-- expected_values:
-    FORD_GRILL_SHUTTER_POSITION: 53.33333
-  response: '7E80462058088'
-- expected_values:
-    FORD_GRILL_SHUTTER_POSITION: 60
-  response: '7E80462058099'
-- expected_values:
     FORD_GRILL_SHUTTER_POSITION: 100
   response: 7E804620580FF

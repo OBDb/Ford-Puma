@@ -8,31 +8,7 @@ test_cases:
   response: 7EC0762480850503250
 - expected_values:
     FORD_T_RANGE: 0
-    FORD_T_RANGE_AVG: 31
-    FORD_T_RANGE_MAX: 31
-    FORD_T_RANGE_MIN: 31
-  response: 7EC0762480851513251
-- expected_values:
-    FORD_T_RANGE: 0
-    FORD_T_RANGE_AVG: 32
-    FORD_T_RANGE_MAX: 32
-    FORD_T_RANGE_MIN: 32
-  response: 7EC0762480852523252
-- expected_values:
-    FORD_T_RANGE: 0
-    FORD_T_RANGE_AVG: 33
-    FORD_T_RANGE_MAX: 33
-    FORD_T_RANGE_MIN: 33
-  response: 7EC0762480853533253
-- expected_values:
-    FORD_T_RANGE: 0
-    FORD_T_RANGE_AVG: 34
-    FORD_T_RANGE_MAX: 34
-    FORD_T_RANGE_MIN: 34
-  response: 7EC0762480854543254
-- expected_values:
-    FORD_T_RANGE: 0
-    FORD_T_RANGE_AVG: 42
-    FORD_T_RANGE_MAX: 42
-    FORD_T_RANGE_MIN: 42
-  response: 7EC076248085C5C325C
+    FORD_T_RANGE_AVG: 58
+    FORD_T_RANGE_MAX: 58
+    FORD_T_RANGE_MIN: 58
+  response: 7EC076248086C6C326C
