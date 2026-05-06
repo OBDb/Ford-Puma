@@ -4,14 +4,5 @@ test_cases:
     FORD_12V_A: -15
   response: 72E0462402B70
 - expected_values:
-    FORD_12V_A: -11
-  response: 72E0462402B74
-- expected_values:
-    FORD_12V_A: -5
-  response: 72E0462402B7A
-- expected_values:
-    FORD_12V_A: -4
-  response: 72E0462402B7B
-- expected_values:
-    FORD_12V_A: -3
-  response: 72E0462402B7C
+    FORD_12V_A: 54
+  response: 72E0462402BB5
