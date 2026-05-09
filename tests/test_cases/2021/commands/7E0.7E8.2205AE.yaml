@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 82
   response: 7E8046205AE52
+- expected_values:
+    FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 85
+  response: 7E8046205AE55
