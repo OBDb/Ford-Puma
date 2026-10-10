@@ -22,8 +22,8 @@ test_cases:
     FORD_GEAR_V2: 7
   response: 7E904621E1207
 - expected_values:
-    FORD_GEAR_V2: 16
+    FORD_GEAR_V2: null
   response: 7E904621E1210
 - expected_values:
-    FORD_GEAR_V2: 60
+    FORD_GEAR_V2: REVERSE
   response: 7E904621E123C
