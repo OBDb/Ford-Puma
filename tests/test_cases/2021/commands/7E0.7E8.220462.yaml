@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220462
 test_cases:
 - expected_values:
-    FORD_WGDC: 14.99939
+    PUMA_WGDC: 14.99939
   response: '7E8056204621333'
 - expected_values:
-    FORD_WGDC: 21.0907
+    PUMA_WGDC: 21.0907
   response: 7E8056204621AFF
 - expected_values:
-    FORD_WGDC: 64.0625
+    PUMA_WGDC: 64.0625
   response: '7E8056204625200'
 - expected_values:
-    FORD_WGDC: 100
+    PUMA_WGDC: 100
   response: '7E8056204628000'

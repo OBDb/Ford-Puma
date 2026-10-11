@@ -1,8 +1,8 @@
 command_id: 746.74E.224836
 test_cases:
 - expected_values:
-    FORD_DCDC_LV_A: 0
+    PUMA_LVB_DCDC_LV_CURRENT: 0
   response: '74E0462483600'
 - expected_values:
-    FORD_DCDC_LV_A: 101
+    PUMA_LVB_DCDC_LV_CURRENT: 101
   response: '74E0462483665'

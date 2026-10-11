@@ -1,6 +1,8 @@
 command_id: 7DF.22F45C
 test_cases:
-- expected_values: {}
+- expected_values:
+    PUMA_EOT_7DF: 17
   response: 7E80462F45C39
-- expected_values: {}
+- expected_values:
+    PUMA_EOT_7DF: 101
   response: 7E80462F45C8D

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    FORD_RPM: 0
+    PUMA_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
-    FORD_RPM: 3263.75
+    PUMA_RPM: 3263.75
   response: 7E80562F40C32FF
 - expected_values:
-    FORD_RPM: 5493.75
+    PUMA_RPM: 5493.75
   response: 7E80562F40C55D7

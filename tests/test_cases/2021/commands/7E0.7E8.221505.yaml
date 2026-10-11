@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221505
 test_cases:
 - expected_values:
-    FORD_VSS_HD: 0
+    PUMA_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    FORD_VSS_HD: 27.99219
+    PUMA_VSS_HD: 27.99219
   response: 7E8056215050DFF
 - expected_values:
-    FORD_VSS_HD: 150.72656
+    PUMA_VSS_HD: 150.72656
   response: 7E8056215054B5D

@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.224808
 test_cases:
 - expected_values:
-    FORD_T_RANGE: 0
-    FORD_T_RANGE_AVG: 19
-    FORD_T_RANGE_MAX: 19
-    FORD_T_RANGE_MIN: 19
+    PUMA_HVBAT_T_AVG: 19
+    PUMA_HVBAT_T_MAX: 19
+    PUMA_HVBAT_T_MIN: 19
+    PUMA_T_RANGE: 0
   response: 7EC0762480845453245
 - expected_values:
-    FORD_T_RANGE: 0
-    FORD_T_RANGE_AVG: 63
-    FORD_T_RANGE_MAX: 63
-    FORD_T_RANGE_MIN: 63
+    PUMA_HVBAT_T_AVG: 63
+    PUMA_HVBAT_T_MAX: 63
+    PUMA_HVBAT_T_MIN: 63
+    PUMA_T_RANGE: 0
   response: 7EC0762480871713271

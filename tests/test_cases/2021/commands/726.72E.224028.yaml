@@ -1,8 +1,8 @@
 command_id: 726.72E.224028
 test_cases:
 - expected_values:
-    FORD_BATT_SOC: 79
+    PUMA_12V_SOC: 79
   response: 72E046240284F
 - expected_values:
-    FORD_BATT_SOC: 97
+    PUMA_12V_SOC: 97
   response: '72E0462402861'

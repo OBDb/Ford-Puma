@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.22480D|fc=1
 test_cases:
 - expected_values:
-    FORD_HVBAT_V: 0
+    PUMA_HVBAT_V: 0
   response: 7EC0562480D0000
 - expected_values:
-    FORD_HVBAT_V: 43.51
+    PUMA_HVBAT_V: 43.51
   response: 7EC0562480D10FF
 - expected_values:
-    FORD_HVBAT_V: 46.09
+    PUMA_HVBAT_V: 46.09
   response: 7EC0562480D1201

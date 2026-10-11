@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.224841
 test_cases:
 - expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.532
+    PUMA_AVG_MODULE_V: 3.532
   response: 7EC056248410DCC
 - expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.581
+    PUMA_AVG_MODULE_V: 3.581
   response: 7EC056248410DFD
 - expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.842
+    PUMA_AVG_MODULE_V: 3.842
   response: 7EC056248410F02
