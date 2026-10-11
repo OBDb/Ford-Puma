@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.2205AE
 test_cases:
 - expected_values:
-    FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 68
+    PUMA_PCM_CYL_3_KNK_COMB_PERF_CNT: 68
   response: 7E8046205AE44
 - expected_values:
-    FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 81
+    PUMA_PCM_CYL_3_KNK_COMB_PERF_CNT: 81
   response: 7E8046205AE51
 - expected_values:
-    FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 82
+    PUMA_PCM_CYL_3_KNK_COMB_PERF_CNT: 82
   response: 7E8046205AE52
 - expected_values:
-    FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 85
+    PUMA_PCM_CYL_3_KNK_COMB_PERF_CNT: 85
   response: 7E8046205AE55
 - expected_values:
-    FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 88
+    PUMA_PCM_CYL_3_KNK_COMB_PERF_CNT: 88
   response: 7E8046205AE58
 - expected_values:
-    FORD_PCM_CYL_3_KNK_COMB_PERF_CNT: 95
+    PUMA_PCM_CYL_3_KNK_COMB_PERF_CNT: 95
   response: 7E8046205AE5F

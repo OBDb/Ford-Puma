@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22F4A6
 test_cases:
 - expected_values:
-    FORD_PCM_VEH_ODO: 58373.6
+    PUMA_PCM_VEH_ODO: 58373.6
   response: 7E80762F4A60008E838
 - expected_values:
-    FORD_PCM_VEH_ODO: 65305.4
+    PUMA_PCM_VEH_ODO: 65305.4
   response: 7E80762F4A60009F6FE
 - expected_values:
-    FORD_PCM_VEH_ODO: 65331.8
+    PUMA_PCM_VEH_ODO: 65331.8
   response: 7E80762F4A60009F806
 - expected_values:
-    FORD_PCM_VEH_ODO: 65772.1
+    PUMA_PCM_VEH_ODO: 65772.1
   response: 7E80762F4A6000A0939
 - expected_values:
-    FORD_PCM_VEH_ODO: 66150.5
+    PUMA_PCM_VEH_ODO: 66150.5
   response: 7E80762F4A6000A1801
 - expected_values:
-    FORD_PCM_VEH_ODO: 74729.5
+    PUMA_PCM_VEH_ODO: 74729.5
   response: 7E80762F4A6000B671F

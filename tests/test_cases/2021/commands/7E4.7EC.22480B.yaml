@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.22480B
 test_cases:
 - expected_values:
-    FORD_HVBAT_A_ALT: 0
+    PUMA_HVBAT_CURRENT: 0
   response: 7EC0562480B0000
 - expected_values:
-    FORD_HVBAT_A_ALT: -20.5
+    PUMA_HVBAT_CURRENT: -20.5
   response: 7EC0562480BFBFF
 - expected_values:
-    FORD_HVBAT_A_ALT: -5.12
+    PUMA_HVBAT_CURRENT: -5.12
   response: 7EC0562480BFF00

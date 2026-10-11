@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.22F430
 test_cases:
 - expected_values:
-    FORD_WARMUP_CLR: 88
+    PUMA_WARMUP_CLR: 88
   response: 7E80462F43058
 - expected_values:
-    FORD_WARMUP_CLR: 91
+    PUMA_WARMUP_CLR: 91
   response: 7E80462F4305B
 - expected_values:
-    FORD_WARMUP_CLR: 92
+    PUMA_WARMUP_CLR: 92
   response: 7E80462F4305C
 - expected_values:
-    FORD_WARMUP_CLR: 93
+    PUMA_WARMUP_CLR: 93
   response: 7E80462F4305D
 - expected_values:
-    FORD_WARMUP_CLR: 94
+    PUMA_WARMUP_CLR: 94
   response: 7E80462F4305E
 - expected_values:
-    FORD_WARMUP_CLR: 95
+    PUMA_WARMUP_CLR: 95
   response: 7E80462F4305F
 - expected_values:
-    FORD_WARMUP_CLR: 96
+    PUMA_WARMUP_CLR: 96
   response: 7E80462F43060
 - expected_values:
-    FORD_WARMUP_CLR: 255
+    PUMA_WARMUP_CLR: 255
   response: 7E80462F430FF

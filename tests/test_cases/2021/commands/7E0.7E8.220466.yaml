@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220466
 test_cases:
 - expected_values:
-    FORD_TIP_DES_ABS: 13.98191
+    PUMA_TIP_DES_ABS: 13.98191
   response: 7E805620466315D
 - expected_values:
-    FORD_TIP_DES_ABS: 14.15894
+    PUMA_TIP_DES_ABS: 14.15894
   response: 7E80562046631FD
 - expected_values:
-    FORD_TIP_DES_ABS: 21.81098
+    PUMA_TIP_DES_ABS: 21.81098
   response: 7E8056204664D01
 - expected_values:
-    FORD_TIP_DES_ABS: 34.17419
+    PUMA_TIP_DES_ABS: 34.17419
   response: 7E80562046678A7

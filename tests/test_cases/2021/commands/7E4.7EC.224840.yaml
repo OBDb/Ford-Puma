@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.224840
 test_cases:
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.517
+    PUMA_MIN_MODULE_V: 3.517
   response: 7EC056248400DBD
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.585
+    PUMA_MIN_MODULE_V: 3.585
   response: 7EC056248400E01
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.839
+    PUMA_MIN_MODULE_V: 3.839
   response: 7EC056248400EFF
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.841
+    PUMA_MIN_MODULE_V: 3.841
   response: 7EC056248400F01

@@ -1,38 +1,29 @@
 command_id: 726.72E.224027
 test_cases:
 - expected_values:
-    FORD_12V_AGE: 2208
-    FORD_BATT_AGE: 92
+    PUMA_12V_AGE: 2208
   response: 72E05624027005C
 - expected_values:
-    FORD_12V_AGE: 3096
-    FORD_BATT_AGE: 129
+    PUMA_12V_AGE: 3096
   response: '72E056240270081'
 - expected_values:
-    FORD_12V_AGE: 3120
-    FORD_BATT_AGE: 130
+    PUMA_12V_AGE: 3120
   response: '72E056240270082'
 - expected_values:
-    FORD_12V_AGE: 3216
-    FORD_BATT_AGE: 134
+    PUMA_12V_AGE: 3216
   response: '72E056240270086'
 - expected_values:
-    FORD_12V_AGE: 3240
-    FORD_BATT_AGE: 135
+    PUMA_12V_AGE: 3240
   response: '72E056240270087'
 - expected_values:
-    FORD_12V_AGE: 3672
-    FORD_BATT_AGE: 153
+    PUMA_12V_AGE: 3672
   response: '72E056240270099'
 - expected_values:
-    FORD_12V_AGE: 4272
-    FORD_BATT_AGE: 178
+    PUMA_12V_AGE: 4272
   response: 72E0562402700B2
 - expected_values:
-    FORD_12V_AGE: 4296
-    FORD_BATT_AGE: 179
+    PUMA_12V_AGE: 4296
   response: 72E0562402700B3
 - expected_values:
-    FORD_12V_AGE: 4320
-    FORD_BATT_AGE: 180
+    PUMA_12V_AGE: 4320
   response: 72E0562402700B4

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22091A
 test_cases:
 - expected_values:
-    FORD_ETC_ANG_DES: 0
+    PUMA_ETC_ANG_DES: 0
   response: 7E80562091A0000
 - expected_values:
-    FORD_ETC_ANG_DES: 3.49414
+    PUMA_ETC_ANG_DES: 3.49414
   response: 7E80562091A06FD
 - expected_values:
-    FORD_ETC_ANG_DES: 74.01172
+    PUMA_ETC_ANG_DES: 74.01172
   response: 7E80562091A9406

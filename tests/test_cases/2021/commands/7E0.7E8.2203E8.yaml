@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    FORD_OAR: 0.22241
+    PUMA_OAR: 0.22241
   response: 7E8056203E80E3C
 - expected_values:
-    FORD_OAR: 0.65564
+    PUMA_OAR: 0.65564
   response: 7E8056203E829F6
 - expected_values:
-    FORD_OAR: 0
+    PUMA_OAR: 0
   response: 7E8056203E8E30D
 - expected_values:
-    FORD_OAR: 0
+    PUMA_OAR: 0
   response: 7E8056203E8F930

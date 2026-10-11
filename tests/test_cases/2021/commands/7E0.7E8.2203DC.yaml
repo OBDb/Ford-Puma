@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
-    FORD_HPFP_DES: 8.70226
+    PUMA_HPFP_DES: 60
   response: 7E8056203DC0006
 - expected_values:
-    FORD_HPFP_DES: 742.59323
+    PUMA_HPFP_DES: 5120
   response: 7E8056203DC0200
 - expected_values:
-    FORD_HPFP_DES: 1112.43946
+    PUMA_HPFP_DES: 7670
   response: 7E8056203DC02FF
 - expected_values:
-    FORD_HPFP_DES: 3341.66952
+    PUMA_HPFP_DES: 23040
   response: 7E8056203DC0900

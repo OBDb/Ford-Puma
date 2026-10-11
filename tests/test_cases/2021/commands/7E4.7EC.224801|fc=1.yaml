@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.224801|fc=1
 test_cases:
 - expected_values:
-    FORD_HVBAT_SOC: 38.25
+    PUMA_HVBAT_SOC: 38.25
   response: 7EC056248014AB5
 - expected_values:
-    FORD_HVBAT_SOC: 38.912
+    PUMA_HVBAT_SOC: 38.912
   response: 7EC056248014C00
 - expected_values:
-    FORD_HVBAT_SOC: 45.054
+    PUMA_HVBAT_SOC: 45.054
   response: 7EC0562480157FF
 - expected_values:
-    FORD_HVBAT_SOC: 74.928
+    PUMA_HVBAT_SOC: 74.928
   response: 7EC056248019258

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22032B
 test_cases:
 - expected_values:
-    FORD_ACC_POS: 0
+    PUMA_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    FORD_ACC_POS: 98.5
+    PUMA_ACC_POS: 98.5
   response: 7E80462032BC5

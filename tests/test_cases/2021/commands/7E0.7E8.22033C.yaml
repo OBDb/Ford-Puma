@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22033C
 test_cases:
 - expected_values:
-    FORD_TIP_V: 1.48438
+    PUMA_TIP_V: 1.48438
   response: 7E80562033C0130
 - expected_values:
-    FORD_TIP_V: 2.49023
+    PUMA_TIP_V: 2.49023
   response: 7E80562033C01FE
 - expected_values:
-    FORD_TIP_V: 2.51953
+    PUMA_TIP_V: 2.51953
   response: 7E80562033C0204

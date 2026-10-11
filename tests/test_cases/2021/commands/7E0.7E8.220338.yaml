@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: 0
+    PUMA_ETC_TRIM_LRN: 0
   response: '7E8056203380000'
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.99805
+    PUMA_ETC_TRIM_LRN: 0.99805
   response: 7E80562033801FF
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: -0.16406
+    PUMA_ETC_TRIM_LRN: -0.16406
   response: 7E805620338FFAC
