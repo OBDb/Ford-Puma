@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    PUMA_AC_P_SENS_V: 0.92773
+  response: 7E80562980003B6
+- expected_values:
+    PUMA_AC_P_SENS_V: 0.98828
+  response: 7E80562980003F4
+- expected_values:
+    PUMA_AC_P_SENS_V: 1.00293
+  response: '7E8056298000403'

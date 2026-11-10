@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    PUMA_ODO_7E0: 5018
+  response: 7E80662DD0100139A
+- expected_values:
+    PUMA_ODO_7E0: 8435
+  response: 7E80662DD010020F3
+- expected_values:
+    PUMA_ODO_7E0: 8452
+  response: 7E80662DD01002104

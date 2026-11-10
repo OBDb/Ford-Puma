@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8433.7
+  response: 7E80762F4A600014971
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8434
+  response: 7E80762F4A600014974
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8434.2
+  response: 7E80762F4A600014976
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8434.5
+  response: 7E80762F4A600014979
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8434.7
+  response: 7E80762F4A60001497B
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8434.9
+  response: 7E80762F4A60001497D
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8435.2
+  response: 7E80762F4A600014980
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8435.5
+  response: 7E80762F4A600014983
+- expected_values:
+    PUMA_PCM_VEH_ODO: 8452.7
+  response: 7E80762F4A600014A2F
