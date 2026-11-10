@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    PUMA_WARMUP_CLR: 223
+  response: 7E80462F430DF
+- expected_values:
+    PUMA_WARMUP_CLR: 225
+  response: 7E80462F430E1

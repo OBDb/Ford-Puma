@@ -1,0 +1,11 @@
+command_id: 7DF.221E1C
+test_cases:
+- expected_values:
+    PUMA_TOT: 21.9375
+  response: 7EE05621E1C015F
+- expected_values:
+    PUMA_TOT: 31.875
+  response: 7EE05621E1C01FE
+- expected_values:
+    PUMA_TOT: 32.0625
+  response: 7EE05621E1C0201

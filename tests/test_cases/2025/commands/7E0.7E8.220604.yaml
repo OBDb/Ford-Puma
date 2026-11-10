@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    PUMA_PCM_A_C_REFRIG_P: 449
+  response: 7E80562060401C1
+- expected_values:
+    PUMA_PCM_A_C_REFRIG_P: 505
+  response: 7E80562060401F9
+- expected_values:
+    PUMA_PCM_A_C_REFRIG_P: 517
+  response: '7E8056206040205'

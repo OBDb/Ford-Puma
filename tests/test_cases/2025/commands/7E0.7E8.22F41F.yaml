@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    PUMA_RUN_TIME: 1277
+  response: 7E80562F41F04FD
+- expected_values:
+    PUMA_RUN_TIME: 1304
+  response: 7E80562F41F0518
+- expected_values:
+    PUMA_RUN_TIME: 1563
+  response: 7E80562F41F061B

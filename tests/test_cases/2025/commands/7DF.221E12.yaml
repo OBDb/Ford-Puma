@@ -1,0 +1,14 @@
+command_id: 7DF.221E12
+test_cases:
+- expected_values:
+    PUMA_GEAR_V2: 20
+  response: 7EE04621E1214
+- expected_values:
+    PUMA_GEAR_V2: 40
+  response: 7EE04621E1228
+- expected_values:
+    PUMA_GEAR_V2: 60
+  response: 7EE04621E123C
+- expected_values:
+    PUMA_GEAR_V2: 70
+  response: 7EE04621E1246

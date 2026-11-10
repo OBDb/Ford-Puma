@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    PUMA_DIST_DTC_CLR: 5436
+  response: 7E80562F431153C
+- expected_values:
+    PUMA_DIST_DTC_CLR: 5437
+  response: 7E80562F431153D
+- expected_values:
+    PUMA_DIST_DTC_CLR: 5438
+  response: 7E80562F431153E
+- expected_values:
+    PUMA_DIST_DTC_CLR: 5455
+  response: 7E80562F431154F

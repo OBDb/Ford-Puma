@@ -1,0 +1,5 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    PUMA_12V_AGE: 3768
+  response: 72E05624027009D

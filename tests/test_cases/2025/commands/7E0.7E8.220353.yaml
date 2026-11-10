@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220353
+test_cases:
+- expected_values:
+    PUMA_BARO: 13.63202
+  response: '7E8056203530178'
+- expected_values:
+    PUMA_BARO: 14.53841
+  response: '7E8056203530191'

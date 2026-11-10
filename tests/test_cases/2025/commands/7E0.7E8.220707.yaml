@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    PUMA_GRILL_SHUT_DC: 0
+  response: '7E80462070700'
+- expected_values:
+    PUMA_GRILL_SHUT_DC: 73.33333
+  response: 7E804620707BB
+- expected_values:
+    PUMA_GRILL_SHUT_DC: 74.11765
+  response: 7E804620707BD
+- expected_values:
+    PUMA_GRILL_SHUT_DC: 76.07843
+  response: 7E804620707C2
+- expected_values:
+    PUMA_GRILL_SHUT_DC: 76.47059
+  response: 7E804620707C3

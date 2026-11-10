@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    PUMA_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    PUMA_VSS_HD: 9.97656
+  response: 7E80562150504FD
+- expected_values:
+    PUMA_VSS_HD: 19.35938
+  response: 7E80562150509AE
+- expected_values:
+    PUMA_VSS_HD: 23.79688
+  response: 7E8056215050BE6
+- expected_values:
+    PUMA_VSS_HD: 28.76562
+  response: 7E8056215050E62
+- expected_values:
+    PUMA_VSS_HD: 33.66406
+  response: 7E80562150510D5
+- expected_values:
+    PUMA_VSS_HD: 35.82812
+  response: 7E80562150511EA
+- expected_values:
+    PUMA_VSS_HD: 45.5625
+  response: 7E80562150516C8
+- expected_values:
+    PUMA_VSS_HD: 52.50781
+  response: 7E8056215051A41
