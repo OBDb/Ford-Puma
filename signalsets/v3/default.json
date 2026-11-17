@@ -17,11 +17,11 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "PUMA_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear right inner tire pressure"}
+    {"id": "PUMA_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear right inner tire pressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "PUMA_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left inner tire pressure"}
+    {"id": "PUMA_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear left inner tire pressure"}
   ]},
 { "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "401E"}, "freq": 1,
   "signals": [
@@ -316,7 +316,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E8"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "PUMA_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
+    {"id": "PUMA_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "min": -1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03EC"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
